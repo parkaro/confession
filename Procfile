@@ -1,1 +1,1 @@
-web: gunicorn embarrassing_confession.wsgi --log-file -
+web: gunicorn confession.wsgi --log-file -
